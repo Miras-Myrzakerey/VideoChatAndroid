@@ -1,0 +1,147 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Miras\Documents\Video Chat\app\src\main\AndroidManifest.xml:2:1-40:12
+	package
+		ADDED from C:\Users\Miras\Documents\Video Chat\app\src\main\AndroidManifest.xml:3:5-26
+		INJECTED from C:\Users\Miras\Documents\Video Chat\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Miras\Documents\Video Chat\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Miras\Documents\Video Chat\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Miras\Documents\Video Chat\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Miras\Documents\Video Chat\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\Miras\Documents\Video Chat\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Miras\Documents\Video Chat\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\Miras\Documents\Video Chat\app\src\main\AndroidManifest.xml:5:5-65
+	android:name
+		ADDED from C:\Users\Miras\Documents\Video Chat\app\src\main\AndroidManifest.xml:5:22-62
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\Miras\Documents\Video Chat\app\src\main\AndroidManifest.xml:6:5-81
+	android:name
+		ADDED from C:\Users\Miras\Documents\Video Chat\app\src\main\AndroidManifest.xml:6:22-78
+uses-permission#ANDROID.PERMISSION.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\Miras\Documents\Video Chat\app\src\main\AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from C:\Users\Miras\Documents\Video Chat\app\src\main\AndroidManifest.xml:7:22-77
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\Users\Miras\Documents\Video Chat\app\src\main\AndroidManifest.xml:8:5-68
+	android:name
+		ADDED from C:\Users\Miras\Documents\Video Chat\app\src\main\AndroidManifest.xml:8:22-65
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Miras\Documents\Video Chat\app\src\main\AndroidManifest.xml:9:5-67
+	android:name
+		ADDED from C:\Users\Miras\Documents\Video Chat\app\src\main\AndroidManifest.xml:9:22-64
+uses-feature#android.hardware.camera
+ADDED from C:\Users\Miras\Documents\Video Chat\app\src\main\AndroidManifest.xml:11:5-60
+	android:name
+		ADDED from C:\Users\Miras\Documents\Video Chat\app\src\main\AndroidManifest.xml:11:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from C:\Users\Miras\Documents\Video Chat\app\src\main\AndroidManifest.xml:12:5-70
+	android:name
+		ADDED from C:\Users\Miras\Documents\Video Chat\app\src\main\AndroidManifest.xml:12:19-67
+uses-feature#android.hardware.camera.front
+ADDED from C:\Users\Miras\Documents\Video Chat\app\src\main\AndroidManifest.xml:13:5-66
+	android:name
+		ADDED from C:\Users\Miras\Documents\Video Chat\app\src\main\AndroidManifest.xml:13:19-63
+uses-feature#android.hardware.camera.front.autofocus
+ADDED from C:\Users\Miras\Documents\Video Chat\app\src\main\AndroidManifest.xml:14:5-76
+	android:name
+		ADDED from C:\Users\Miras\Documents\Video Chat\app\src\main\AndroidManifest.xml:14:19-73
+application
+ADDED from C:\Users\Miras\Documents\Video Chat\app\src\main\AndroidManifest.xml:16:5-38:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Miras\.android\build-cache\8b5de3e1426e41eac766b6c1d25d08d9392ff356\output\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:design:25.3.1] C:\Users\Miras\.android\build-cache\ae4327239d7f58b18893f90be7dcb53e26230f52\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Miras\.android\build-cache\6ac0431716e4d430dc3b19cd11f3598822d47460\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Miras\.android\build-cache\5f508c22e8f901327b9e04c93348ebcecc4b1a37\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Miras\.android\build-cache\36267bfbc4c8b3cb261f8a59407bf045a97f6919\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Miras\.android\build-cache\d9003e8500b51db49c2e10797358e39309f4bfcb\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Miras\.android\build-cache\2f52a1be4f2d84ad2b6f1c361b851b42109f6252\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Miras\.android\build-cache\bba42ded8a35f612717c69e4d3b19bd3ef430e2f\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Miras\.android\build-cache\03b6950357edf01b9b4d938dddc6b9c9c470b857\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Miras\.android\build-cache\3b2d8e7bf2f645bd9bd9c93ef70a55aabe8ff0ab\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Miras\.android\build-cache\fe67e6b4e37710e84c84ff28f542a0441358aa0f\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Miras\.android\build-cache\44c535693b6e2ef233698483cea67a467e0ab80b\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from C:\Users\Miras\Documents\Video Chat\app\src\main\AndroidManifest.xml:19:9-41
+	android:supportsRtl
+		ADDED from C:\Users\Miras\Documents\Video Chat\app\src\main\AndroidManifest.xml:22:9-35
+	android:roundIcon
+		ADDED from C:\Users\Miras\Documents\Video Chat\app\src\main\AndroidManifest.xml:21:9-54
+	android:allowBackup
+		ADDED from C:\Users\Miras\Documents\Video Chat\app\src\main\AndroidManifest.xml:17:9-35
+	android:icon
+		ADDED from C:\Users\Miras\Documents\Video Chat\app\src\main\AndroidManifest.xml:18:9-43
+	android:largeHeap
+		ADDED from C:\Users\Miras\Documents\Video Chat\app\src\main\AndroidManifest.xml:20:9-33
+	android:theme
+		ADDED from C:\Users\Miras\Documents\Video Chat\app\src\main\AndroidManifest.xml:23:9-40
+activity#mainPackage.MainActivity
+ADDED from C:\Users\Miras\Documents\Video Chat\app\src\main\AndroidManifest.xml:24:9-30:20
+	android:name
+		ADDED from C:\Users\Miras\Documents\Video Chat\app\src\main\AndroidManifest.xml:24:19-58
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Miras\Documents\Video Chat\app\src\main\AndroidManifest.xml:25:13-29:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Miras\Documents\Video Chat\app\src\main\AndroidManifest.xml:26:17-69
+	android:name
+		ADDED from C:\Users\Miras\Documents\Video Chat\app\src\main\AndroidManifest.xml:26:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Miras\Documents\Video Chat\app\src\main\AndroidManifest.xml:28:17-77
+	android:name
+		ADDED from C:\Users\Miras\Documents\Video Chat\app\src\main\AndroidManifest.xml:28:27-74
+activity#mainPackage.RecordActivity
+ADDED from C:\Users\Miras\Documents\Video Chat\app\src\main\AndroidManifest.xml:31:9-33:52
+	android:screenOrientation
+		ADDED from C:\Users\Miras\Documents\Video Chat\app\src\main\AndroidManifest.xml:33:13-49
+	android:name
+		ADDED from C:\Users\Miras\Documents\Video Chat\app\src\main\AndroidManifest.xml:32:13-54
+activity#mainPackage.CallActivity
+ADDED from C:\Users\Miras\Documents\Video Chat\app\src\main\AndroidManifest.xml:34:9-37:68
+	android:label
+		ADDED from C:\Users\Miras\Documents\Video Chat\app\src\main\AndroidManifest.xml:36:13-56
+	android:theme
+		ADDED from C:\Users\Miras\Documents\Video Chat\app\src\main\AndroidManifest.xml:37:13-56
+	android:name
+		ADDED from C:\Users\Miras\Documents\Video Chat\app\src\main\AndroidManifest.xml:35:13-52
+uses-sdk
+INJECTED from C:\Users\Miras\Documents\Video Chat\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Miras\.android\build-cache\8b5de3e1426e41eac766b6c1d25d08d9392ff356\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:25.3.1] C:\Users\Miras\.android\build-cache\ae4327239d7f58b18893f90be7dcb53e26230f52\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Miras\.android\build-cache\6ac0431716e4d430dc3b19cd11f3598822d47460\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Miras\.android\build-cache\5f508c22e8f901327b9e04c93348ebcecc4b1a37\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Miras\.android\build-cache\36267bfbc4c8b3cb261f8a59407bf045a97f6919\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Miras\.android\build-cache\d95f79ec9318a4ecdf676248ffa0740ba85746d7\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Miras\.android\build-cache\d9003e8500b51db49c2e10797358e39309f4bfcb\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Miras\.android\build-cache\2f52a1be4f2d84ad2b6f1c361b851b42109f6252\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Miras\.android\build-cache\bba42ded8a35f612717c69e4d3b19bd3ef430e2f\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Miras\.android\build-cache\03b6950357edf01b9b4d938dddc6b9c9c470b857\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Miras\.android\build-cache\3b2d8e7bf2f645bd9bd9c93ef70a55aabe8ff0ab\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Miras\.android\build-cache\fe67e6b4e37710e84c84ff28f542a0441358aa0f\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Miras\.android\build-cache\44c535693b6e2ef233698483cea67a467e0ab80b\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] C:\Users\Miras\.android\build-cache\ae4327239d7f58b18893f90be7dcb53e26230f52\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from C:\Users\Miras\Documents\Video Chat\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Miras\Documents\Video Chat\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Miras\Documents\Video Chat\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Miras\Documents\Video Chat\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] C:\Users\Miras\.android\build-cache\ae4327239d7f58b18893f90be7dcb53e26230f52\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Miras\.android\build-cache\6ac0431716e4d430dc3b19cd11f3598822d47460\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Miras\.android\build-cache\5f508c22e8f901327b9e04c93348ebcecc4b1a37\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Miras\.android\build-cache\36267bfbc4c8b3cb261f8a59407bf045a97f6919\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Miras\.android\build-cache\d95f79ec9318a4ecdf676248ffa0740ba85746d7\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Miras\.android\build-cache\d9003e8500b51db49c2e10797358e39309f4bfcb\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Miras\.android\build-cache\2f52a1be4f2d84ad2b6f1c361b851b42109f6252\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Miras\.android\build-cache\bba42ded8a35f612717c69e4d3b19bd3ef430e2f\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Miras\.android\build-cache\03b6950357edf01b9b4d938dddc6b9c9c470b857\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Miras\.android\build-cache\3b2d8e7bf2f645bd9bd9c93ef70a55aabe8ff0ab\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Miras\.android\build-cache\fe67e6b4e37710e84c84ff28f542a0441358aa0f\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Miras\.android\build-cache\44c535693b6e2ef233698483cea67a467e0ab80b\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] C:\Users\Miras\.android\build-cache\ae4327239d7f58b18893f90be7dcb53e26230f52\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] C:\Users\Miras\.android\build-cache\ae4327239d7f58b18893f90be7dcb53e26230f52\output\AndroidManifest.xml:26:9-47
