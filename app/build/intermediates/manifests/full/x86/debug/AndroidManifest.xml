@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="videoChat"
+    package="myrzakerey.mainPackage"
     android:versionCode="1"
     android:versionName="1.0" >
 
@@ -31,7 +31,7 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme" >
-        <activity android:name="mainPackage.MainActivity" >
+        <activity android:name="myrzakerey.mainPackage.MainActivity" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -39,10 +39,10 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="mainPackage.RecordActivity"
+            android:name="myrzakerey.mainPackage.RecordActivity"
             android:screenOrientation="portrait" />
         <activity
-            android:name="mainPackage.CallActivity"
+            android:name="myrzakerey.mainPackage.CallActivity"
             android:label="@string/title_activity_call"
             android:theme="@style/AppTheme.NoActionBar" />
     </application>

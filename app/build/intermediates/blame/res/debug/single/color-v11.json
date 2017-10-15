@@ -1,10 +1,10 @@
 [
     {
-        "merged": "C:\\Users\\Miras\\Documents\\Video Chat\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
-        "source": "C:\\Users\\Miras\\.android\\build-cache\\6ac0431716e4d430dc3b19cd11f3598822d47460\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
+        "merged": "C:\\Users\\Miras\\StudioProjects\\VideoChatAndroid\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
+        "source": "C:\\Users\\Miras\\.android\\build-cache\\6ac0431716e4d430dc3b19cd11f3598822d47460\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
     },
     {
-        "merged": "C:\\Users\\Miras\\Documents\\Video Chat\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
-        "source": "C:\\Users\\Miras\\.android\\build-cache\\6ac0431716e4d430dc3b19cd11f3598822d47460\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
+        "merged": "C:\\Users\\Miras\\StudioProjects\\VideoChatAndroid\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "C:\\Users\\Miras\\.android\\build-cache\\6ac0431716e4d430dc3b19cd11f3598822d47460\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
     }
 ]

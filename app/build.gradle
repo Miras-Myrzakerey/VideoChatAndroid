@@ -4,12 +4,15 @@ android {
     compileSdkVersion 25
     buildToolsVersion "25.0.2"
     defaultConfig {
-        applicationId 'videoChat'
+        applicationId 'myrzakerey.mainPackage'
         minSdkVersion 22
         targetSdkVersion 25
         versionCode 1
         versionName "1.0"
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+        ndk {
+            abiFilters "armeabi-v7a", "x86", "armeabi", "mips"
+        }
     }
     buildTypes {
         release {
@@ -21,7 +24,7 @@ android {
         abi {
             enable true
             reset()
-            include 'x86', 'armeabi'
+            include 'x86', 'armeabi', 'armeabi-v7a'
             universalApk false
         }
     }

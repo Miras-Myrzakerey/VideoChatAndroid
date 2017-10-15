@@ -1,18 +1,18 @@
 [
     {
-        "merged": "C:\\Users\\Miras\\Documents\\Video Chat\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "merged": "C:\\Users\\Miras\\StudioProjects\\VideoChatAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
         "source": "C:\\Users\\Miras\\.android\\build-cache\\6ac0431716e4d430dc3b19cd11f3598822d47460\\output\\res\\layout-v21\\notification_action.xml"
     },
     {
-        "merged": "C:\\Users\\Miras\\Documents\\Video Chat\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
-        "source": "C:\\Users\\Miras\\.android\\build-cache\\6ac0431716e4d430dc3b19cd11f3598822d47460\\output\\res\\layout-v21\\notification_template_custom_big.xml"
-    },
-    {
-        "merged": "C:\\Users\\Miras\\Documents\\Video Chat\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "merged": "C:\\Users\\Miras\\StudioProjects\\VideoChatAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
         "source": "C:\\Users\\Miras\\.android\\build-cache\\6ac0431716e4d430dc3b19cd11f3598822d47460\\output\\res\\layout-v21\\notification_template_icon_group.xml"
     },
     {
-        "merged": "C:\\Users\\Miras\\Documents\\Video Chat\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "merged": "C:\\Users\\Miras\\StudioProjects\\VideoChatAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
         "source": "C:\\Users\\Miras\\.android\\build-cache\\6ac0431716e4d430dc3b19cd11f3598822d47460\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\Miras\\StudioProjects\\VideoChatAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\Miras\\.android\\build-cache\\6ac0431716e4d430dc3b19cd11f3598822d47460\\output\\res\\layout-v21\\notification_template_custom_big.xml"
     }
 ]

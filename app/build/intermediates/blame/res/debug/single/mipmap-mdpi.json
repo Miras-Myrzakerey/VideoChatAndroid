@@ -1,10 +1,10 @@
 [
     {
-        "merged": "C:\\Users\\Miras\\Documents\\Video Chat\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher.png",
-        "source": "C:\\Users\\Miras\\Documents\\Video Chat\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+        "merged": "C:\\Users\\Miras\\StudioProjects\\VideoChatAndroid\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher_round.png",
+        "source": "C:\\Users\\Miras\\StudioProjects\\VideoChatAndroid\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "C:\\Users\\Miras\\Documents\\Video Chat\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher_round.png",
-        "source": "C:\\Users\\Miras\\Documents\\Video Chat\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+        "merged": "C:\\Users\\Miras\\StudioProjects\\VideoChatAndroid\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher.png",
+        "source": "C:\\Users\\Miras\\StudioProjects\\VideoChatAndroid\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
     }
 ]
